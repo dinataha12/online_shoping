@@ -1,0 +1,11 @@
+{
+    "omnia@gmail.com": [
+        {
+            "name": "Laptop",
+            "price": 999.99,
+            "brand": "Dell",
+            "model_year": 2023,
+            "discount": 5
+        }
+    ]
+}

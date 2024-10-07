@@ -1,0 +1,42 @@
+{
+    "omnia@gmail.com": {
+        "name": "omnia",
+        "id": "30412232110",
+        "password": "0123",
+        "government": "c",
+        "address": "cairo",
+        "phone": "01025617833"
+    },
+    "medo@gmail.com": {
+        "name": "medo",
+        "id": "123456",
+        "password": "789",
+        "government": "Alex",
+        "address": "cairo",
+        "phone": "01025617833"
+    },
+    "zayn@gmail.com": {
+        "name": "zayn",
+        "id": "1235",
+        "password": "2356",
+        "government": "Alex",
+        "address": "alex",
+        "phone": "01025617833"
+    },
+    "mony@gmail.com": {
+        "name": "mony",
+        "id": "1234",
+        "password": "123",
+        "government": "d",
+        "address": "cairo",
+        "phone": "01025617833"
+    },
+    "malik@gmail.com": {
+        "name": "malik",
+        "id": "123456",
+        "password": "123",
+        "government": "d",
+        "address": "cairo",
+        "phone": "01025617833"
+    }
+}

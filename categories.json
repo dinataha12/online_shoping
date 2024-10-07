@@ -1,0 +1,257 @@
+{
+    "Electronics": [
+        {
+            "name": "Smartphone",
+            "price": 699.99,
+            "brand": "Samsung",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Laptop",
+            "price": 999.99,
+            "brand": "Dell",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Tablet",
+            "price": 499.99,
+            "brand": "Apple",
+            "model_year": 2021,
+            "discount": 8
+        },
+        {
+            "name": "Smartwatch",
+            "price": 199.99,
+            "brand": "Fitbit",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Headphones",
+            "price": 150.00,
+            "brand": "Sony",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "TV",
+            "price": 1200.00,
+            "brand": "LG",
+            "model_year": 2023,
+            "discount": 20
+        },
+        {
+            "name": "Speaker",
+            "price": 250.00,
+            "brand": "Bose",
+            "model_year": 2022,
+            "discount": 10
+        }
+    ],
+    "Home Appliances": [
+        {
+            "name": "Refrigerator",
+            "price": 800.00,
+            "brand": "Whirlpool",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Washing Machine",
+            "price": 500.00,
+            "brand": "LG",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Microwave",
+            "price": 150.00,
+            "brand": "Samsung",
+            "model_year": 2021,
+            "discount": 8
+        },
+        {
+            "name": "Dishwasher",
+            "price": 600.00,
+            "brand": "Bosch",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Blender",
+            "price": 80.00,
+            "brand": "Ninja",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "Vacuum Cleaner",
+            "price": 300.00,
+            "brand": "Dyson",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Oven",
+            "price": 1000.00,
+            "brand": "GE",
+            "model_year": 2023,
+            "discount": 8
+        }
+    ],
+    "Fashion": [
+        {
+            "name": "T-shirt",
+            "price": 20.00,
+            "brand": "Nike",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Jeans",
+            "price": 50.00,
+            "brand": "Levi's",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Jacket",
+            "price": 120.00,
+            "brand": "Adidas",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "Shoes",
+            "price": 80.00,
+            "brand": "Puma",
+            "model_year": 2023,
+            "discount": 8
+        },
+        {
+            "name": "Hat",
+            "price": 25.00,
+            "brand": "New Era",
+            "model_year": 2022,
+            "discount": 7
+        },
+        {
+            "name": "Socks",
+            "price": 10.00,
+            "brand": "Hanes",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "Belt",
+            "price": 30.00,
+            "brand": "Gucci",
+            "model_year": 2023,
+            "discount": 10
+        }
+    ],
+    "Books": [
+        {
+            "name": "The Catcher in the Rye",
+            "price": 10.00,
+            "brand": "Penguin",
+            "model_year": 2021,
+            "discount": 5
+        },
+        {
+            "name": "1984",
+            "price": 15.00,
+            "brand": "Houghton Mifflin",
+            "model_year": 2020,
+            "discount": 8
+        },
+        {
+            "name": "To Kill a Mockingbird",
+            "price": 12.00,
+            "brand": "HarperCollins",
+            "model_year": 2021,
+            "discount": 7
+        },
+        {
+            "name": "Pride and Prejudice",
+            "price": 20.00,
+            "brand": "Penguin Classics",
+            "model_year": 2022,
+            "discount": 15
+        },
+        {
+            "name": "War and Peace",
+            "price": 25.00,
+            "brand": "Oxford University Press",
+            "model_year": 2023,
+            "discount": 5
+        },
+        {
+            "name": "The Odyssey",
+            "price": 12.00,
+            "brand": "Penguin Classics",
+            "model_year": 2022,
+            "discount": 8
+        },
+        {
+            "name": "The Lord of the Rings",
+            "price": 30.00,
+            "brand": "Houghton Mifflin",
+            "model_year": 2023,
+            "discount": 7
+        }
+    ],
+    "Sports": [
+        {
+            "name": "Football",
+            "price": 25.00,
+            "brand": "Adidas",
+            "model_year": 2022,
+            "discount": 5
+        },
+        {
+            "name": "Basketball",
+            "price": 30.00,
+            "brand": "Nike",
+            "model_year": 2023,
+            "discount": 8
+        },
+        {
+            "name": "Tennis Racket",
+            "price": 100.00,
+            "brand": "Wilson",
+            "model_year": 2023,
+            "discount": 10
+        },
+        {
+            "name": "Golf Clubs",
+            "price": 500.00,
+            "brand": "Titleist",
+            "model_year": 2023,
+            "discount": 12
+        },
+        {
+            "name": "Yoga Mat",
+            "price": 20.00,
+            "brand": "Gaiam",
+            "model_year": 2022,
+            "discount": 10
+        },
+        {
+            "name": "Dumbbells",
+            "price": 40.00,
+            "brand": "Bowflex",
+            "model_year": 2023,
+            "discount": 15
+        },
+        {
+            "name": "Treadmill",
+            "price": 800.00,
+            "brand": "NordicTrack",
+            "model_year": 2023,
+            "discount": 8
+        }
+    ]
+}
